@@ -85,7 +85,7 @@ program
                     },
                     reportedBy: {
                       type: "reference",
-                      reference: "$.input.data.reportedBy",
+                      reference: "$.input.data.session.email",
                     },
                   },
                 },
